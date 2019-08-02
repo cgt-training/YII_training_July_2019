@@ -1,0 +1,378 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"user_last_name"
+			],
+			[
+				"ema",
+				"email"
+			],
+			[
+				"pirn",
+				"print_r"
+			],
+			[
+				"get_cl",
+				"get_class_methods"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prnit",
+				"print_r"
+			],
+			[
+				"h",
+				"h4\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 272.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/training_deependra_yii/backend/config/main.php",
+		"/var/www/html/training_deependra_yii/backend/web/.htaccess",
+		"/var/www/html/training_deependra_yii/frontend/config/main.php",
+		"/var/www/html/training_deependra_yii/frontend/web/.htaccess",
+		"/var/www/html/training_deependra_yii/.htaccess",
+		"/var/www/html/training_deependra_yii/Untitled Document",
+		"/var/www/html/training_deependra_yii/frontend/web/index.php",
+		"/var/www/html/training_deependra_yii/frontend/config/codeception-local.php",
+		"/var/www/html/training_deependra_yii/frontend/config/bootstrap.php",
+		"/var/www/html/training_deependra_yii/frontend/assets/AppAsset.php",
+		"/var/www/html/training_deependra_yii/console/config/main.php",
+		"/var/www/html/training_deependra_yii/common/components/Request.php",
+		"/var/www/html/training_deependra_yii/common/config/main-local.php",
+		"/var/www/html/training_deependra_yii/common/config/bootstrap.php",
+		"/var/www/html/training_deependra_yii/common/config/params.php",
+		"/var/www/html/training_deependra_yii/common/config/main.php",
+		"/var/www/html/training_deependra_yii/phpinfo.php",
+		"/var/www/html/training_deependra_yii/frontend/models/ProfileForm.php",
+		"/var/www/html/training_deependra_yii/frontend/views/site/profile.php",
+		"/var/www/html/training_deependra_yii/frontend/controllers/SiteController.php",
+		"/var/www/html/training_deependra_yii/frontend/views/layouts/main.php",
+		"/var/www/html/training_deependra_yii/common/models/User.php",
+		"/var/www/html/training_deependra_yii/common/models/LoginForm.php",
+		"/var/www/html/training_deependra_yii/frontend/views/site/signup.php",
+		"/home/cgt_jod_lin_durgeshn/.cache/.fr-QGQX9n/3317812-568f47a6cb40638023dbdc2a70014658da2d86ef/.htaccess",
+		"/home/cgt_jod_lin_durgeshn/.config/sublime-text-3/Packages/User/prd.sublime-snippet",
+		"/var/www/html/training_deependra_yii/frontend/models/SignupForm.php",
+		"/var/www/html/training_deependra_yii/vendor/yiisoft/yii2/db/ActiveRecord.php",
+		"/var/www/html/training_deependra_yii/vendor/yiisoft/yii2/web/IdentityInterface.php",
+		"/var/www/html/training_deependra_yii/frontend/web/css/bootstrap.min.css",
+		"/home/cgt_jod_lin_durgeshn/.cache/.fr-Cey7BQ/bootstrap-4.0.0/dist/css/bootstrap.css",
+		"/home/cgt_jod_lin_durgeshn/.cache/.fr-5zQItc/bootstrap-4.0.0/dist/css/bootstrap.min.css",
+		"/var/www/html/training_deependra_yii/frontend/web/index-test.php",
+		"/var/www/html/training_deependra_yii/frontend/views/site/requestPasswordResetToken.php",
+		"/var/www/html/training_deependra_yii/common/config/test-local.php",
+		"/var/www/html/training_deependra_yii/common/config/test.php",
+		"/var/www/html/training_deependra_yii/common/config/params-local.php",
+		"/var/www/html/training_deependra_yii/common/config/codeception-local.php",
+		"/var/www/html/training_deependra_yii/console/config/test-local.php",
+		"/var/www/html/training_deependra_yii/console/config/test.php",
+		"/var/www/html/training_deependra_yii/console/config/params-local.php",
+		"/var/www/html/training_deependra_yii/console/config/params.php",
+		"/var/www/html/training_deependra_yii/console/config/main-local.php",
+		"/var/www/html/training_deependra_yii/console/config/bootstrap.php",
+		"/var/www/html/training_deependra_yii/frontend/config/test-local.php",
+		"/var/www/html/training_deependra_yii/frontend/config/test.php",
+		"/var/www/html/training_deependra_yii/frontend/config/params-local.php",
+		"/var/www/html/training_deependra_yii/frontend/config/params.php",
+		"/var/www/html/training_deependra_yii/frontend/config/main-local.php",
+		"/var/www/html/training_deependra_yii/vendor/yiisoft/yii2/base/Model.php",
+		"/var/www/html/training_deependra_yii/vendor/codeception/base/tests/data/services/UserModel.php",
+		"/var/www/html/training_deependra_yii/vendor/codeception/base/src/Codeception/Snapshot.php",
+		"/var/www/html/training_deependra_yii/vendor/yiisoft/yii2/behaviors/OptimisticLockBehavior.php",
+		"/var/www/html/training_deependra_yii/vendor/yiisoft/yii2/behaviors/TimestampBehavior.php",
+		"/var/www/html/training_deependra_yii/frontend/views/site/login.php",
+		"/var/www/html/training_deependra_yii/vendor/yiisoft/yii2/base/Component.php",
+		"/var/www/html/training_deependra_yii/vendor/yiisoft/yii2/db/Connection.php",
+		"/var/www/html/training_deependra_yii/environments/index.php",
+		"/var/www/html/training_deependra_yii/console/migrations/m190124_110200_add_verification_token_column_to_user_table.php",
+		"/var/www/html/training_deependra_yii/console/migrations/m130524_201442_init.php",
+		"/var/www/html/training_deependra_yii/vendor/autoload.php",
+		"/var/www/html/training_deependra_yii/vagrant/nginx/app.conf",
+		"/var/www/html/training_deependra_yii/vagrant/config/vagrant-local.example.yml",
+		"/var/www/html/training_deependra_yii/environments/dev/frontend/config/test-local.php",
+		"/var/www/html/training_deependra_yii/environments/dev/frontend/config/params-local.php",
+		"/var/www/html/training_deependra_yii/environments/dev/frontend/config/main-local.php",
+		"/var/www/html/training_deependra_yii/environments/dev/yii",
+		"/var/www/html/training_deependra_yii/codeception.yml",
+		"/var/www/html/training_deependra_yii/docker-compose.yml",
+		"/home/cgt_jod_lin_durgeshn/training_deependra_yii/vendor/yiisoft/yii2-debug/src/models/search/Db.php",
+		"/home/cgt_jod_lin_durgeshn/training_deependra_yii/vendor/codeception/base/src/Codeception/Lib/Interfaces/Db.php",
+		"/home/cgt_jod_lin_durgeshn/training_deependra_yii/vendor/codeception/base/src/Codeception/Lib/Driver/Db.php",
+		"/home/cgt_jod_lin_durgeshn/advanced/vendor/codeception/base/src/Codeception/Lib/Driver/Db.php",
+		"/home/cgt_jod_lin_durgeshn/advanced/vendor/codeception/base/src/Codeception/Lib/Interfaces/Db.php",
+		"/home/cgt_jod_lin_durgeshn/advanced/vendor/codeception/base/src/Codeception/Module/Db.php",
+		"/home/cgt_jod_lin_durgeshn/training_deependra_yii/vendor/codeception/base/src/Codeception/Module/Db.php",
+		"/home/cgt_jod_lin_durgeshn/advanced/vendor/yiisoft/yii2-debug/src/models/search/Db.php",
+		"/home/cgt_jod_lin_durgeshn/Downloads/phpMyAdmin-4.9.0.1-all-languages/libraries/classes/Engines/Bdb.php",
+		"/home/cgt_jod_lin_durgeshn/advanced/backend/config/bootstrap.php",
+		"/home/cgt_jod_lin_durgeshn/advanced/backend/config/test.php",
+		"/var/www/html/training_deependra_yii/requirements.php",
+		"/home/cgt_jod_lin_durgeshn/advanced/backend/config/main.php",
+		"/home/cgt_jod_lin_durgeshn/advanced/backend/config/params.php",
+		"/var/www/html/training_deependra_yii/environments/dev/frontend/web/index.php",
+		"/var/www/html/training_deependra_yii/environments/dev/yii_test",
+		"/var/www/html/training_deependra_yii/frontend/codeception.yml",
+		"/var/www/html/training_deependra_yii/vendor/yiisoft/yii2/db/mssql/PDO.php",
+		"/var/www/html/training_deependra_yii/yii_test.bat",
+		"/var/www/html/training_deependra_yii/yii_test",
+		"/var/www/html/training_deependra_yii/yii.bat",
+		"/var/www/html/training_deependra_yii/yii",
+		"/var/www/html/training_deependra_yii/Vagrantfile",
+		"/var/www/html/training_deependra_yii/README.md",
+		"/var/www/html/training_deependra_yii/LICENSE.md",
+		"/var/www/html/training_deependra_yii/init.bat",
+		"/var/www/html/training_deependra_yii/init",
+		"/var/www/html/training_deependra_yii/composer.lock",
+		"/var/www/html/training_deependra_yii/composer.json",
+		"/var/www/html/training_deependra_yii/vendor/yiisoft/extensions.php",
+		"/var/www/html/training_deependra_yii/vendor/codeception/base/src/Codeception/Lib/Driver/Db.php",
+		"/var/www/html/training_deependra_yii/vendor/codeception/base/src/Codeception/Lib/Interfaces/Db.php",
+		"/var/www/html/training_deependra_yii/vendor/yiisoft/yii2-debug/src/models/search/Db.php",
+		"/var/www/html/training_deependra_yii/vendor/codeception/base/src/Codeception/Module/Db.php",
+		"/var/www/html/training_deependra_yii/vendor/codeception/base/src/Codeception/Module/MongoDb.php",
+		"/var/www/html/training_deependra_yii/common/codeception.yml",
+		"/var/www/html/training_deependra_yii/vendor/function.php",
+		"/home/cgt_jod_lin_durgeshn/Desktop/advanced/frontend/controllers/SiteController.php",
+		"/home/cgt_jod_lin_durgeshn/Desktop/advanced/frontend/config/main.php",
+		"/home/cgt_jod_lin_durgeshn/Desktop/test.html",
+		"/run/user/1001/gvfs/smb-share:server=192.168.100.247,share=newteam/khaleel_linux/automatedInstallation/php7.3/installationsScriptUpdated.sh",
+		"/home/cgt_jod_lin_durgeshn/Desktop/advanced/frontend/config/test.php",
+		"/home/cgt_jod_lin_durgeshn/Desktop/advanced/frontend/config/params.php",
+		"/home/cgt_jod_lin_durgeshn/Desktop/advanced/vendor/codeception/base/src/Codeception/Lib/Interfaces/Web.php",
+		"/home/cgt_jod_lin_durgeshn/Desktop/advanced/frontend/config/bootstrap.php",
+		"/home/cgt_jod_lin_durgeshn/Downloads/system_backup/2019/PROJECT_DATA/Muferral/api.txt",
+		"/home/cgt_jod_lin_durgeshn/Downloads/system_backup/2019/PROJECT_DATA/Muferral/service-order-flow-payload.json",
+		"/home/cgt_jod_lin_durgeshn/Downloads/system_backup/2019/PROJECT_DATA/Muferral/template-a-order-flow-payload.json",
+		"/home/cgt_jod_lin_durgeshn/.IntelliJIdea2019.1/system/log/idea.log",
+		"/home/cgt_jod_lin_durgeshn/Downloads/system_backup/2019/PROJECT_DATA/Muferral/Details.txt",
+		"/home/cgt_jod_lin_durgeshn/eclipse-workspace/Muferral/muferral-gateway/.idea/workspace.xml",
+		"/home/cgt_jod_lin_durgeshn/Downloads/system_backup/2019/PROJECT_DATA/Muferral/approvalManagementPayload.json",
+		"/home/cgt_jod_lin_durgeshn/Downloads/system_backup/predix/latest/hpe/rmd-ref-app-ui/public/scripts/app.js",
+		"/home/cgt_jod_lin_durgeshn/Downloads/system_backup/predix/latest/hpe/rmd-ref-app-ui/public/scripts/routes.js",
+		"/home/cgt_jod_lin_durgeshn/Downloads/system_backup/predix/latest/hpe/rmd-ref-app-ui/public/scripts/bootstrapper.js",
+		"/home/cgt_jod_lin_durgeshn/Downloads/system_backup/predix/latest/hpe/rmd-ref-app-ui/public/scripts/main.js",
+		"/home/cgt_jod_lin_durgeshn/eclipse-workspace/Muferral/muferral-gateway/package.json",
+		"/home/cgt_jod_lin_durgeshn/eclipse-workspace/Muferral/muferral-gateway/webpack/webpack.dev.js",
+		"/home/cgt_jod_lin_durgeshn/eclipse-workspace/Muferral/muferral-gateway/webpack/webpack.common.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/var/www/html/training_deependra_yii",
+			"/var/www/html/training_deependra_yii/frontend",
+			"/home/cgt_jod_lin_durgeshn/eclipse-workspace/Muferral/muferral-gateway,*.txt,/var/www/html/training_deependra_yii",
+			"/home/cgt_jod_lin_durgeshn/eclipse-workspace/Muferral/muferral-gateway",
+			"/home/cgt_jod_lin_durgeshn/Downloads/system_backup/predix/latest/hpe/rmd-ref-app-ui/public"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"findOne",
+			"ResetPassword",
+			"request-password-reset",
+			"VerifyEmail",
+			"save(",
+			"updateAttributes",
+			"save",
+			"unique",
+			"uni",
+			"unique",
+			"findOne",
+			"User",
+			"findByUsername",
+			"auth_key",
+			"status",
+			"password_hash",
+			"yii2advanced",
+			"$this->password",
+			"$password",
+			"username",
+			"root",
+			"password",
+			"root",
+			"new \\yii\\db\\Connect",
+			"username",
+			"SPRING_DATA_MONGODB_URI",
+			"service_fee",
+			"10",
+			"\"]",
+			"5c133aefbe077700019526d3",
+			"5c91f7bc509b6c342dca5e87",
+			"5cbff3ff4cd3534f7fc8adc1",
+			"item-orders",
+			"DeliveryRestData",
+			"5cd4278ab1982750c59fa313",
+			"dump",
+			"5c7e0faef301302e34cc49ac",
+			"PredixUserService",
+			"5cd27d399465dd35791ec9be",
+			"5c7e0faef301302e34cc49ac",
+			"daromasterValue",
+			"deliveryDay",
+			"core",
+			"deliveryAndReturnOptionsRelations",
+			"concatenateModules",
+			"debug",
+			"chunk",
+			"ExtractTextPlugin",
+			"DedupePlugin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "AppAsset.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
