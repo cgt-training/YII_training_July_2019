@@ -30,7 +30,7 @@ $this->params['breadcrumbs'][] = $this->title;
              'value'  => function ($model) {
                  $OldRole=Yii::$app->authManager->getRolesByUser($model->id);
                  $OldRole = key($OldRole);
-                return $model->username.' ('.$OldRole.')';
+                return ($OldRole!='')?$model->username.' ('.$OldRole.')' : $model->username;
             },            
             'label' => 'User Name / Role'
             ], 
