@@ -105,7 +105,7 @@ class PermissionController extends Controller
     public function actionUpdate($id)
     {
         $model = $this->findModel($id);
-
+        
         $auth = Yii::$app->authManager;
 
         if ($model->load(Yii::$app->request->post())) {

@@ -6,10 +6,10 @@ use yii\helpers\Html;
 /* @var $model app\models\Branch */
 
 $this->title = Yii::t('app', 'Update Branch: {name}', [
-    'name' => $model->branch_id,
+    'name' => $model->branch_name,
 ]);
 $this->params['breadcrumbs'][] = ['label' => Yii::t('app', 'Branches'), 'url' => ['index']];
-$this->params['breadcrumbs'][] = ['label' => $model->branch_id, 'url' => ['view', 'id' => $model->branch_id]];
+$this->params['breadcrumbs'][] = ['label' => $model->branch_name, 'url' => ['view', 'id' => $model->branch_id]];
 $this->params['breadcrumbs'][] = Yii::t('app', 'Update');
 ?>
 <div class="branch-update">

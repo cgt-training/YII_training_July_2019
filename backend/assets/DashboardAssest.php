@@ -23,7 +23,8 @@ class DashboardAssest extends AssetBundle
         'css/bootstrap-datepicker.min.css',
         'css/daterangepicker.css',
         'css/bootstrap3-wysihtml5.min.css',
-        'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic',
+        //'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic',
+        'https://fonts.googleapis.com/css?family=Poppins&display=swap',
 
     ];
     public $js = [
